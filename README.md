@@ -41,28 +41,7 @@ I’m passionate about using data to solve problems and streamline operations. W
 
 ## 🛠 My Skill Set
 
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Data & Analysis</th>
-    <th>Database / Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R"/>
-      <img src="https://img.icons8.com/color/48/000000/sas.png" width="40" alt="SAS"/>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-      <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" alt="Tableau"/>
-      <img src="https://seeklogo.com/images/S/sql-developer-logo-E9A6C237A8-seeklogo.com.png" width="40" alt="SQL Developer"/>
-    </td>
-  </tr>
-</table>
+| Language | Data & Analysis | Database / Tools |
+|:--------:|:---------------:|:----------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/> <br> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" alt="Tableau"/> |
+
