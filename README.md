@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Lillian
 
 🎓 Master's in Information Systems  
-💻 Aspiring **Database Analyst / Database Administrator (DBA)** & **Data Analyst**  
+💻 Aspiring **Database Analyst / Database Administrator (DBA) / PL/SQL Developer ** & **Data Analyst**  
 
 ---
 
