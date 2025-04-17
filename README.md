@@ -8,19 +8,20 @@
 
 I’m passionate about using data to solve problems and streamline operations. With hands-on experience in both **data analysis** and **database design**, I specialize in:
 
-- Writing efficient **SQL and PL/SQL** scripts for Oracle environments  
+- Writing efficient **SQL and PL/SQL** scripts for data analysis  
 - Performing **data cleaning, transformation, and reporting**  
-- Maintaining **data integrity and performance** in relational databases  
+- Maintaining **data integrity and performance** in relational databases
+- Creating compelling and interactive dashboards using Tableau  
 
 ---
 
 ## 🧰 Technical Skills
 
-- **Languages:** SQL, PL/SQL (Advanced), Python, SAS, R  
+- **Languages:** SQL, PL/SQL (Advanced), Python, SAS, R, Java 
 - **PL/SQL Proficiency:** Cursors, Collections, Error Handling, Stored Procedures, Functions, Triggers  
-- **Databases:** Oracle, SQL Developer, MS Access  
-- **Tools:** Jupyter, Tableau, Excel, Google Sheets  
-- **Strengths:** Data Analysis, ETL, Query Optimization, Data Modeling, Reporting  
+- **Databases:** Oracle SQL Developer, MS SQL, MS Access  
+- **Tools:** Jupyter, Tableau, Excel, Google Sheets, Visio, draw.io, SAP  
+- **Strengths:** Data Analysis, ETL, Query Optimization, Data Modeling, Data Reporting  
 
 ---
 
