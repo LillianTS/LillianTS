@@ -6,12 +6,13 @@
 
 ## 🧠 About Me
 
-I’m passionate about using data to solve problems and streamline operations. With hands-on experience in both **data analysis** and **database design**, I specialize in:
+I’m passionate about using data to solve problems and streamline operations. With hands-on experience in **data analysis**, **data modeling**, **data visualization**, and **database design**, I specialize in:
 
+- Draw types of diagrams (eg., Context diagram, DFD, Use Case diagram, UML Activity diagram) to reduce complexity of components to essentials
 - Writing efficient **SQL and PL/SQL** scripts for data analysis  
 - Performing **data cleaning, transformation, and reporting**  
 - Maintaining **data integrity and performance** in relational databases
-- Creating compelling and interactive dashboards using Tableau  
+- Creating **compelling and interactive dashboards** using Tableau  
 
 ---
 
